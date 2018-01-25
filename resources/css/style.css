@@ -5,6 +5,7 @@
 .title, h2{
   color: white;
   background-image: url("../photos/the-flatiron-building.png");
+  background-repeat: no-repeat;
 }
 h1{
   font-size: 70px;
